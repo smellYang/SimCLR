@@ -1,6 +1,9 @@
 # SimCLR
 A PyTorch implementation of SimCLR based on ICML 2020 paper [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709).
 
+[**【ICML 2020】SimCLR知乎解析**](https://zhuanlan.zhihu.com/p/197802321)  
+[**Train MoCo on CIFAR-10**](https://docs.lightly.ai/self-supervised-learning/tutorials/package/tutorial_moco_memory_bank.html)  
+
 ![Network Architecture image from the paper](structure.png)
 
 ## Requirements
